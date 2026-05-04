@@ -15,3 +15,6 @@ Tableau — interactive dashboard and visualizations
 * What patient demographics are associated with higher no-show rates?
 * Does the gap between scheduling and appointment date affect no-shows?
 * Do chronic health issues affect no-show rates?
+
+### Dashboard
+View the live dashboard on Tableau public : [No-Show Dashboard] (https://public.tableau.com/app/profile/tingting.liang/viz/AppointmentNo-showAnalysis/Dashboard1)
